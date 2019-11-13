@@ -17,9 +17,9 @@
   "fontWeight": "", 
   "height": "auto", 
   "hidden": "", 
-  "id": "Label1", 
+  "id": "lblLogin", 
   "labelStyle": "text", 
-  "left": "57", 
+  "left": 87, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 135, 
-  "value": "What are you looking for?", 
-  "width": 203
+  "top": 36, 
+  "value": "", 
+  "width": 157
 }

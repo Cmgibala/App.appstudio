@@ -14,10 +14,10 @@
   "fontSize": "", 
   "fontStyle": "", 
   "fontWeight": "", 
-  "height": 133, 
+  "height": 121, 
   "hidden": "", 
   "id": "Image1", 
-  "left": "72", 
+  "left": "62", 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -47,7 +47,7 @@
   "script": "", 
   "shape": "", 
   "src": "images/JayslistLogo.jpeg", 
-  "style": "border", 
-  "top": 19, 
-  "width": 174
+  "style": "", 
+  "top": 12, 
+  "width": 194
 }
