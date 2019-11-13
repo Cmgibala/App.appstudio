@@ -17,9 +17,9 @@
   "fontWeight": "", 
   "height": "auto", 
   "hidden": "", 
-  "id": "Label1Copy", 
+  "id": "lblBooksandTech", 
   "labelStyle": "text", 
-  "left": "122", 
+  "left": "72", 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 252, 
-  "value": "Furniture", 
-  "width": 74
+  "top": 168, 
+  "value": "Books and Technology", 
+  "width": 173
 }

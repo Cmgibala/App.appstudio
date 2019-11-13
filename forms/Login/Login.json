@@ -14,90 +14,54 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Login", 
         "Elements", 
-        "imLogo.json"
+        "btnLogIn.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Login", 
         "Elements", 
-        "lblBooksandTech.json"
+        "inptUsername.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Login", 
         "Elements", 
-        "btnBooks.json"
+        "inptPassword.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Login", 
         "Elements", 
-        "btnTech.json"
+        "lblLogin.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Login", 
         "Elements", 
-        "lblFurniture.json"
+        "Image1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Login", 
         "Elements", 
-        "btnFurniture.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "Line1.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "Line1Copy.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "Label1.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "lblUser.json"
+        "Button1.json"
       ]
     }
   ], 
@@ -107,7 +71,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "HomePage", 
+  "id": "Login", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -115,7 +79,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "HomePage.onshow()", 
+  "onshow": "", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
