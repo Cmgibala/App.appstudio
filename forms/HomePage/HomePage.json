@@ -14,9 +14,45 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "HomePage", 
         "Elements", 
-        "Alert1.json"
+        "Image1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Label1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Button1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Button2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Label1Copy.json"
       ]
     }
   ], 
@@ -26,7 +62,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "Form1", 
+  "id": "HomePage", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
