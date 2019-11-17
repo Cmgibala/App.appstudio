@@ -19,7 +19,7 @@
   "hidden": "", 
   "id": "lblSort", 
   "labelStyle": "text", 
-  "left": 106, 
+  "left": 113, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 64, 
+  "top": 65, 
   "value": "Sort By:", 
   "width": "auto"
 }
