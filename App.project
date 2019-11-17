@@ -18,22 +18,6 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "HomePage", 
-            "HomePage.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "Login", 
-            "Login.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
             "Books", 
             "Books.json"
           ]
