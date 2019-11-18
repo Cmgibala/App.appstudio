@@ -18,6 +18,22 @@
           "!type": "External", 
           "file": [
             "forms", 
+            "HomePage", 
+            "HomePage.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Login", 
+            "Login.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
             "Books", 
             "Books.json"
           ]
@@ -35,7 +51,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "", 
+      "firstform": "Login", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
