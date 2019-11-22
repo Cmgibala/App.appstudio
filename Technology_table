@@ -1,0 +1,11 @@
+CREATE TABLE `technology` (
+  `technology_id` int(11) NOT NULL AUTO_INCREMENT,
+  `Type` varchar(30) NOT NULL,
+  `Detail` varchar(30) NOT NULL,
+  `Brand_Model` varchar(30) NOT NULL,
+  `Item_Condition` varchar(30) NOT NULL,
+  `Posting_header` varchar(60) NOT NULL,
+  `Description` varchar(60) NOT NULL,
+  `Price` double(10,2) NOT NULL,
+  PRIMARY KEY (`technology_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=31 DEFAULT CHARSET=utf8;
