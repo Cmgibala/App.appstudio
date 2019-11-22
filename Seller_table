@@ -1,0 +1,10 @@
+CREATE TABLE `seller` (
+  `seller_id` int(11) NOT NULL AUTO_INCREMENT,
+  `first_name` varchar(25) NOT NULL,
+  `last_name` varchar(25) NOT NULL,
+  `email` varchar(100) NOT NULL,
+  `Net_ID` varchar(8) NOT NULL,
+  `phone_number` varchar(15) NOT NULL,
+  `address` varchar(100) NOT NULL,
+  PRIMARY KEY (`seller_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=31 DEFAULT CHARSET=utf8;
