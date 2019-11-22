@@ -1,0 +1,12 @@
+CREATE TABLE `books` (
+  `Book_ID` int(11) NOT NULL AUTO_INCREMENT,
+  `Title` varchar(47) NOT NULL,
+  `Book_Condition` int(11) NOT NULL,
+  `Posting_header` varchar(260) NOT NULL,
+  `Description` varchar(260) DEFAULT NULL,
+  `Price` decimal(5,2) NOT NULL,
+  `Author` varchar(19) NOT NULL,
+  `Genre` varchar(17) NOT NULL,
+  `Publisher` varchar(16) NOT NULL,
+  PRIMARY KEY (`Book_ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=30 DEFAULT CHARSET=utf8;

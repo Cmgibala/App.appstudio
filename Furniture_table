@@ -1,0 +1,10 @@
+CREATE TABLE `furniture` (
+  `Item_ID` int(11) NOT NULL AUTO_INCREMENT,
+  `Room` varchar(260) NOT NULL,
+  `Item_Condition` int(11) NOT NULL,
+  `Item_type` varchar(260) NOT NULL,
+  `Posting_header` varchar(260) NOT NULL,
+  `Description` varchar(260) NOT NULL,
+  `Price` int(11) NOT NULL,
+  PRIMARY KEY (`Item_ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=31 DEFAULT CHARSET=utf8;
