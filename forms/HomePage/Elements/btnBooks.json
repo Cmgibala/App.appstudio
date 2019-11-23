@@ -35,7 +35,7 @@
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "btnBooks.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 

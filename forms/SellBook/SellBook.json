@@ -14,117 +14,81 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "imLogo.json"
+        "Image1CopyCopy.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "lblBooksandTech.json"
+        "lblSellBook.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "btnBooks.json"
+        "lblAdditionalInfo.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "btnTech.json"
+        "drpGenre.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "lblFurniture.json"
+        "inptAuthor.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "btnFurniture.json"
+        "inptPublisher.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "Line1.json"
+        "btnSubmitBook.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "Line1Copy.json"
+        "inptBookTitle.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellBook", 
         "Elements", 
-        "Label1.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "lblUser.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "lblFurnitureCopy.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "btnSellItem.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "Line1CopyCopy.json"
+        "btnSellBookBack.json"
       ]
     }
   ], 
@@ -134,7 +98,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "HomePage", 
+  "id": "SellBook", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -142,7 +106,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "HomePage.onshow()", 
+  "onshow": "", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 

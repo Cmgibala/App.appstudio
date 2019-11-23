@@ -2,7 +2,7 @@
   "!type": "Button_bs4", 
   "ChangeForm": "", 
   "appearance": " btn-secondary", 
-  "backgroundColor": "", 
+  "backgroundColor": "blue", 
   "badge": "", 
   "badgeAppearance": " badge-info", 
   "blockLevel": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 327, 
+  "top": 316, 
   "value": "Home", 
   "width": "auto"
 }

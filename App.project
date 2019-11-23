@@ -29,6 +29,54 @@
             "Login", 
             "Login.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SellItem1", 
+            "SellItem1.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SellBook", 
+            "SellBook.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Form1", 
+            "Form1.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SellFurniture", 
+            "SellFurniture.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "BooksSearch", 
+            "BooksSearch.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SellTechnology", 
+            "SellTechnology.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -75,7 +123,7 @@
       "style": "", 
       "styleheaders": null, 
       "theme": "a", 
-      "title": "App", 
+      "title": "JAYSLIST", 
       "useStrict": "", 
       "version": "1.0.0", 
       "viewportFit": "cover", 
