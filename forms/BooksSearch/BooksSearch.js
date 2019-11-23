@@ -94,8 +94,9 @@ BooksSearch.onshow=function(){
         var row, col;
         row = event.target._DT_CellIndex.row;
         col = event.target._DT_CellIndex.column;
-        lookupTitle = data1[row][col]
+        lookupTitle = data1[row][0]
         console.log(lookupTitle)
+        ChangeForm(BookBuy)
         
   }
 }

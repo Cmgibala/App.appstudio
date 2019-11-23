@@ -77,6 +77,14 @@
             "SellTechnology", 
             "SellTechnology.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "BookBuy", 
+            "BookBuy.json"
+          ]
         }
       ], 
       "configxml": null, 
