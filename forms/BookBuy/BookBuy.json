@@ -14,18 +14,45 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "FurnitureSearch", 
+        "BookBuy", 
         "Elements", 
-        "DataTable3.json"
+        "inptDescription.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "FurnitureSearch", 
+        "BookBuy", 
         "Elements", 
-        "btnFurnitureSearchBack.json"
+        "Image2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "inptCondition.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "inptAuthor.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "lblTitle.json"
       ]
     }
   ], 
@@ -35,7 +62,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "FurnitureSearch", 
+  "id": "BookBuy", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 

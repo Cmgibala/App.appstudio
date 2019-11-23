@@ -1,3 +1,4 @@
+lookupTitle = ""
 
 var query = "SELECT Title, Posting_header, Book_Condition, Price FROM books"
  // alert(query)
@@ -32,3 +33,5 @@ function loadTable() {    // reload table when changed entire table
   var table = $("#DataTable2").DataTable()
   table.rows.add(DataTable2.settings.data).draw()
 }}
+
+

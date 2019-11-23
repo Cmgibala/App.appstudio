@@ -28,7 +28,7 @@
   "left": "0", 
   "lengthChange": "true", 
   "lengthMenu": "[5, 10, 25]", 
-  "onclick": "", 
+  "onclick": "DataTable2.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 

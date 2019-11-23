@@ -1,4 +1,4 @@
-/*
+
 var query = "SELECT Type, Brand_Model, Item_Condition, Price FROM technology"
  // alert(query)
 req1 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=amh86170&pass=Baseball12!&database=375groupb5&query=" + query)
@@ -32,4 +32,7 @@ function loadTable() {    // reload table when changed entire table
   var table = $("#DataTable1").DataTable()
   table.rows.add(DataTable1.settings.data).draw()
 }}
-*/
+
+btnTechSearchBack.onclick=function(){
+  ChangeForm(Home)
+}

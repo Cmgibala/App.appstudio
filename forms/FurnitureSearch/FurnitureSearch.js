@@ -1,4 +1,4 @@
-/*
+
 var query = "SELECT Item_Condition, Item_type, Price FROM furniture"
  // alert(query)
 req1 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=amh86170&pass=Baseball12!&database=375groupb5&query=" + query)
@@ -31,4 +31,7 @@ function loadTable() {    // reload table when changed entire table
   var table = $("#DataTable3").DataTable()
   table.rows.add(DataTable3.settings.data).draw()
 }}
-*/
+
+btnFurnitureSearchBack.onclick=function(){
+  ChangeForm(Home)
+}
