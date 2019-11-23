@@ -1,4 +1,6 @@
 rooms = ["Kitchen", "Living Room",  "Bathroom", "Bedroom"]
+furnitureTypes = ["Toaster Oven", "Futon", "TV Stand", "Microwave", "Desk", ]
+NewFurnitureType = ""
 NewItemRoom = ""
 
 

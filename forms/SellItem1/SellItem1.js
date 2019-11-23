@@ -1,4 +1,4 @@
-types = ["book", "furniture", "technology", "other"]
+types = ["book", "furniture", "technology"]
 NewItemDescription = ""
 NewItemCondition = ""
 NewItemPrice = ""

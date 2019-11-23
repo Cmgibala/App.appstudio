@@ -38,6 +38,7 @@ btnSubmitBook.onclick=function(){
           console.log("the parsed JSON is " + results)
           // output the names of all the dogs
           alert("New Item Added");
+          ChangeForm(HomePage);
             }
         } 
 }
