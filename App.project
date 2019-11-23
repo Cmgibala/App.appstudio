@@ -37,6 +37,38 @@
             "Books", 
             "Books.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "BooksSearch", 
+            "BooksSearch.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "TechSearch", 
+            "TechSearch.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "FurnitureSearch", 
+            "FurnitureSearch.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Form1", 
+            "Form1.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -87,7 +119,7 @@
       "useStrict": "", 
       "version": "1.0.0", 
       "viewportFit": "cover", 
-      "voltAppId": "P0Cjej", 
+      "voltAppId": "ejCYVy", 
       "voltDomain": ""
     }
   ], 
