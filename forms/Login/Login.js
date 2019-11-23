@@ -6,9 +6,13 @@ btnLogIn.onclick=function(){
     req1 = Ajax("https://radlab.creighton.edu/appStudio/authLDAP.php", "POST", "j_username=" + inptUsername.value + "&j_password=" + inptPassword.value);
   //req1 = Ajax("https://otis.creighton.edu/authLDAP_3.php", "POST", "j_username=" + TextBox1.value + "&j_password=" + PasswordInput1.value);
     if (req1.status == 200) { //everything worked.
+      if(req1.responseText == 1){
           alert("Login Successful");
           user = inptUsername.value
           ChangeForm(HomePage);
+      }else {
+          alert("Wrong Log In");
+          }
         
     } else {
         //Handle that. 
@@ -25,3 +29,4 @@ console.log(user)
 Button1.onclick=function(){
   ChangeForm(HomePage)
 }
+

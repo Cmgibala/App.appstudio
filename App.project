@@ -29,6 +29,38 @@
             "Login", 
             "Login.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SellItem1", 
+            "SellItem1.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SellBook", 
+            "SellBook.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Form1", 
+            "Form1.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SellFurniture", 
+            "SellFurniture.json"
+          ]
         }
       ], 
       "configxml": null, 

@@ -14,117 +14,81 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "imLogo.json"
+        "Image1Copy.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "lblBooksandTech.json"
+        "lblSellItem.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "btnBooks.json"
+        "btnEnter.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "btnTech.json"
+        "drpTypes.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "lblFurniture.json"
+        "rdoCondition.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "btnFurniture.json"
+        "inptPrice.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "Line1.json"
+        "inptPostingHeader.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "Line1Copy.json"
+        "inptItemDescription.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "SellItem1", 
         "Elements", 
-        "Label1.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "lblUser.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "lblFurnitureCopy.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "btnSellItem.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "Line1CopyCopy.json"
+        "btnEnterCopy.json"
       ]
     }
   ], 
@@ -134,7 +98,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "HomePage", 
+  "id": "SellItem1", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -142,7 +106,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "HomePage.onshow()", 
+  "onshow": "SellItem1.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
