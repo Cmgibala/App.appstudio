@@ -6,5 +6,25 @@ req1 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POS
       results = JSON.parse(req1.responseText)
       console.log(results)
       }
+      
+
+xlet resultsName = ""
 
 
+
+BookBuy.onshow=function(){
+    inptDescription.value = arrayDescription[chosenIndex]
+    imgYelp1.src = arrayImage[chosenIndex]
+    inptCondition.value = arrayCondition[chosenIndex]
+    inptAuthor.value = arrayAuthor[chosenIndex]
+    lblTitle.value = arrayTitle[chosenIndex]
+    taAddress.value = arrayAddress[chosenIndex]
+}  // closes event
+
+hmbMenu31.onclick=function(s){
+ if (s == "Yelp")
+     ChangeForm(Yelp)
+ else if (s ==  "Yelp with Ratings")
+     ChangeForm(YelpRatings)
+  
+}

@@ -54,6 +54,15 @@
         "Elements", 
         "lblTitle.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "Input1.json"
+      ]
     }
   ], 
   "class": "", 
@@ -70,7 +79,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "", 
+  "onshow": "BookBuy.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
