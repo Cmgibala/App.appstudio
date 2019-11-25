@@ -16,7 +16,7 @@
         "forms", 
         "BookBuy", 
         "Elements", 
-        "inptDescription.json"
+        "imgBuyBook.json"
       ]
     }, 
     {
@@ -25,7 +25,7 @@
         "forms", 
         "BookBuy", 
         "Elements", 
-        "Image2.json"
+        "inptBuyCondition.json"
       ]
     }, 
     {
@@ -34,7 +34,7 @@
         "forms", 
         "BookBuy", 
         "Elements", 
-        "Input1.json"
+        "inptBuyAuthor.json"
       ]
     }, 
     {
@@ -43,7 +43,61 @@
         "forms", 
         "BookBuy", 
         "Elements", 
-        "Input2.json"
+        "inptBuyGenre.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "inptBuyPublisher.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "lblBuyTitle.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "inptBuyPrice.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "btnBuyBookBack.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "taBuyDescription.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "BookBuy", 
+        "Elements", 
+        "btnBuyBook.json"
       ]
     }
   ], 
@@ -55,7 +109,7 @@
   "height": 460, 
   "id": "BookBuy", 
   "language": "JavaScript", 
-  "left": "0", 
+  "left": "-1", 
   "locked": false, 
   "modal": "false", 
   "onhide": "", 

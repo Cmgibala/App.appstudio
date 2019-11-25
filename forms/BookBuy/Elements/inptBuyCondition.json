@@ -29,7 +29,7 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "Input1", 
+  "id": "inptBuyCondition", 
   "inputType": "text", 
   "inputmode": "", 
   "left": 13, 
@@ -80,9 +80,9 @@
   "spellcheck": "true", 
   "step": "", 
   "style": "", 
-  "top": 302, 
+  "top": 217, 
   "validation": "", 
   "value": "", 
   "valueCols": 10, 
-  "width": "auto"
+  "width": 294
 }
