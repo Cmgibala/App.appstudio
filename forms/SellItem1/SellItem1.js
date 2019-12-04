@@ -50,6 +50,8 @@ btnEnter.onclick=function(){
     ChangeForm(SellBook);
   else if (NewItemType == "furniture")
     ChangeForm(SellFurniture);
+  else if (NewItemType == "technology")
+    ChangeForm(SellTechnology);
   
   console.log(NewItemType);
   console.log(NewItemPrice);

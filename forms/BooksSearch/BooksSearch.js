@@ -20,7 +20,8 @@ var columns1 = [               // column headings
         ]
         
 function Main() {     // use this as runs first but waits until everything is loaded
-  updateTable()
+  updateTable();
+  //loadTable();
 }
 
 function updateTable() {    // re-display table
@@ -61,4 +62,5 @@ btnBookSearchBack.onclick=function(){
 function refreshTable(){
     $("#DataTable2").DataTable().ajax.reload()
 }
+
 

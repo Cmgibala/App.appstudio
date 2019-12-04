@@ -2,7 +2,8 @@ NewItemGenre = ""
 NewItemAuthor = ""
 NewItemPublisher = ""
 NewItemTitle  = ""
-
+NewItemPhone = ""
+NewItemAddress = "" 
 
 drpGenre.onclick=function(s){
   if (typeof(s) == "object"){ 
@@ -18,10 +19,15 @@ btnSubmitBook.onclick=function(){
   NewItemAuthor = inptAuthor.value;
   NewItemPublisher = inptPublisher.value;
   NewItemTitle = inptBookTitle.value
+  NewItemPhone = inptPhone.value
+  NewItemAddress = inptAddress.value
+  
   console.log(NewItemAuthor);
   console.log(NewItemPublisher);
   console.log(NewItemGenre);
-  console.log(NewItemTitle)
+  console.log(NewItemTitle);
+  console.log(NewItemPhone);
+  console.log(NewItemAddress);
 
 
 
@@ -51,4 +57,5 @@ btnSellBookBack.onclick=function(){
 //Go Home
 Image1CopyCopy.onclick=function(){
   ChangeForm(HomePage)
+  
 }

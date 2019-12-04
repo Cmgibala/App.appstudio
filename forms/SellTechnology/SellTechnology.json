@@ -9,7 +9,71 @@
   "borderWidth": "", 
   "cached_js": null, 
   "cached_js_script_hash": null, 
-  "children": [], 
+  "children": [
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellTechnology", 
+        "Elements", 
+        "sellfurniturelogoCopy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellTechnology", 
+        "Elements", 
+        "lblSellTech.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellTechnology", 
+        "Elements", 
+        "inptTechDetail.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellTechnology", 
+        "Elements", 
+        "inptTechModel.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellTechnology", 
+        "Elements", 
+        "drpTechType.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellTechnology", 
+        "Elements", 
+        "btnSellTechEnter.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellTechnology", 
+        "Elements", 
+        "btnSellTechBack.json"
+      ]
+    }
+  ], 
   "class": "", 
   "designHeight": 0, 
   "designWidth": 0, 
@@ -24,7 +88,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "", 
+  "onshow": "SellTechnology.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 

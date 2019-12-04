@@ -26,7 +26,7 @@ btnLogIn.onclick=function(){
 
 console.log(user)
 
-Button1.onclick=function(){
+
+btnSkip.onclick=function(){
   ChangeForm(HomePage)
 }
-

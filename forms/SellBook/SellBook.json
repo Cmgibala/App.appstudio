@@ -90,6 +90,24 @@
         "Elements", 
         "btnSellBookBack.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellBook", 
+        "Elements", 
+        "inptPhone.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellBook", 
+        "Elements", 
+        "inptAddress.json"
+      ]
     }
   ], 
   "class": "", 

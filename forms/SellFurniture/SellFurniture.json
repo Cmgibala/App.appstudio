@@ -34,7 +34,7 @@
         "forms", 
         "SellFurniture", 
         "Elements", 
-        "btnSellFurnitureBack.json"
+        "btnSellFurnitureEnter.json"
       ]
     }, 
     {
@@ -53,6 +53,33 @@
         "SellFurniture", 
         "Elements", 
         "drpItemType.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellFurniture", 
+        "Elements", 
+        "btnSellFurnitureBack.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellFurniture", 
+        "Elements", 
+        "inptFurniturePhone.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "SellFurniture", 
+        "Elements", 
+        "inptFurnitureAddress.json"
       ]
     }
   ], 

@@ -32,7 +32,7 @@
   "icon": "caret", 
   "id": "drpGenre", 
   "items": "signal_processing\ndata_science\nmathematics\neconomics\nhistory\nscience\npsychology\nfiction\ncomputer_science\nnonfiction", 
-  "left": 22, 
+  "left": 14, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -62,7 +62,7 @@
   "script": "", 
   "size": " btn-md", 
   "style": "", 
-  "top": 144, 
+  "top": 136, 
   "value": "Genre", 
   "width": 118
 }
